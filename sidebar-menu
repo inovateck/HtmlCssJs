@@ -2,6 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,minimum-scale=1">
+<link rel="stylesheet" type="text/css" href="./style.css">
 <title>a dashboard interface </title>
 </head>
 <body>
@@ -75,4 +76,22 @@
       </div>
     </div>
   </div>
+
+
+  <div class="main-content">
+    <header>
+      <div>
+        <label for="">
+          <span class="menu-logo"></span>
+        </label>
+        <div>
+          <h1>Analytics</h1>
+          <p> display the dashboard of analytics<span class="channel-logo"></span></p>
+        </div>
+      </div>
+
+      <div class="header-upload">
+        <button class="upload-btn" ><span class="upload_logo"></span>upload</button>
+      </div>
+    </header>
 
